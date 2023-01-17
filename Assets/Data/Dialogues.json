@@ -1,0 +1,82 @@
+{
+    "Greg_Completed": [
+        {
+            "Speaker": "Monkey",
+            "Speech": "Why did you mess with me man..."
+        },
+        {
+            "Speaker": "Greg",
+            "Speech": "Idk I just get bored sometimes"
+        }
+    ],
+    "Greg": [
+        {
+            "Speaker": "Monkey",
+            "Speech": "OOO OOO AAAA AOOAOA OOO AA AAA!"
+        },
+        {
+            "Speaker": "Greg",
+            "Speech": "*Looks Around* Is this monkey talking to me...?"
+        },
+        {
+            "Speaker": "Monkey",
+            "Speech": "AAAAAAAA OAOAOAO OOOOA OAAA!!!!!"
+        },
+        {
+            "Speaker": "Greg",
+            "Speech": "I don't know what your saying..."
+        },
+        {
+            "Options": [
+                "Fling poo at Greg",
+                "Bark like a dog",
+                "Meow",
+                "Walk away"
+            ]
+        }
+    ],
+    "Greg_1": [
+        {
+            "Speaker": "Monkey",
+            "Speech": "*Flings literal poo at Greg for no reason*"
+        },
+        {
+            "Speaker": "Greg",
+            "Speech": "WHAT THE HELL MAN I LITERALLY DIDN'T DO ANYTHING"
+        },
+        {
+            "Speaker": "Greg",
+            "Speech": "Take this translator and never talk to me again (Greg is now gone forever)"
+        }
+    ],
+    "Greg_2": [
+        {
+            "Speaker": "Monkey",
+            "Speech": "OOO OOO AAAA AOOAOA OOO AA AAA! (your a monkey not a dog...)"
+        },
+        {
+            "Speaker": "Greg",
+            "Speech": "Wow... You tried to talk like a dog... Yeah I understand you, take this translator haha"
+        }
+    ],
+    "Greg_3": [
+        {
+            "Speaker": "Monkey",
+            "Speech": "MEOWWWWWW!"
+        },
+        {
+            "Speaker": "Greg",
+            "Speech": "Awwww... So cute, take this translator as a reward"
+        }
+    ],
+    "Greg_4": [
+        {
+            "Speaker": "",
+            "Speech": "As you begin to walk away Greg jumps infront of you and stops you"
+        },
+        {
+            "Speaker": "Greg",
+            "Speech": "I was messing with you man, I understand you, please take this translator"
+        }
+    ]
+}
