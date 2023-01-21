@@ -43,3 +43,4 @@
 *.psd filter=lfs -crlf
 *.tga filter=lfs -crlf
 *.tif filter=lfs -crlf
+*.kra filter=lfs -crlf
